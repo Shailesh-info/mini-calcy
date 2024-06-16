@@ -1,0 +1,2 @@
+# mini-calcy
+simple calculator 
